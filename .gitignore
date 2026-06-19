@@ -1,0 +1,8 @@
+node_modules/
+dist/
+release/
+.venv/
+.cache/
+.DS_Store
+*.log
+
