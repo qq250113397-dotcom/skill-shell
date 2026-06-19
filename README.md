@@ -14,7 +14,7 @@
 
 ## 下载
 
-进入 GitHub 仓库的 `Actions` 页面，打开最新一次 `Build Windows`，下载 `Skill-Shell-Windows`。
+进入 GitHub 仓库的 `Releases` 页面，下载最新的 Windows `.exe` 安装包。
 
 ## 本地开发
 
@@ -49,4 +49,3 @@ npm run dist:win
 ## 开源许可
 
 [MIT](LICENSE)
-
